@@ -5,7 +5,6 @@
   📚 Provides guidance on digital banking, UPI, credit/debit cards.
   🛡️ Educates about cyber fraud prevention and security tips.
   🤖 AI-powered Q&A using trained intents and entities.
-  🌐 Deployable on web or messaging platforms (WhatsApp, Messenger, etc.).
   📊 Tracks user learning progress.
 
 🛠️ Technologies Used :
